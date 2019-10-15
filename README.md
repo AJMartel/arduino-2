@@ -1,6 +1,7 @@
 Chico++ Arduino Projects
 =======
 
+https://github.com/AJMartel/arduino-TrueRandom-UUID/tree/master/libraries/TrueRandom/examples/Uuid
 
 Blinkenlights
 -------------
